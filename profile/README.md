@@ -9,7 +9,8 @@
 | Resource            | Link                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | 📝 **Wiki Homepage**   | [Wiki Homepage](https://github.com/ISIS3510-202510-T14/Documentation/wiki) |
-
+| 📱 **Flutter Application**  | [Repository](https://github.com/ISIS3510-202510-T14/Mobile) |
+| 💻 **Backend & Analytics**  | [Repository](https://github.com/ISIS3510-202510-T14/Backend) |
 ## 👥 The Team 
 
 | Name                  | GitHub Profile                                               |
